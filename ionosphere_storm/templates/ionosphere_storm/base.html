@@ -1,0 +1,78 @@
+{% load static %}
+
+    {% block head-meta %}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    {% endblock %}
+
+    {% block title %}
+    {% endblock %}
+
+    {% block head-css %}
+    <!-- Font Awesome icons (free version)-->
+
+    <script src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+    <!-- Third party plugin CSS-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="{% static 'favicon/favicon.png' %}"/>
+<!--    <link href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" rel="stylesheet" />-->
+<!-- Core theme CSS (includes Bootstrap)-->
+<!--        <link href="{% static '../../static/css/styles.css' %}" rel="stylesheet" />-->
+
+    <link rel="stylesheet" href="../../static/css/style_django.css?{% now 'U' %}"/>
+
+<!--    <link href="{% static '../../static/css/style_django.css' %}" rel="stylesheet" />-->
+<!--    <link href="{% static '../../static/css/style_django.css' %}" rel="stylesheet"/>-->
+
+    {% endblock %}
+
+    {% block header %}
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">Burze jonosferyczne</a><button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">O jonosferze</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Na platformie</a></li>
+<!--                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Wykresy</a></li>-->
+<!--                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>
+    {% endblock %}
+
+
+    {% block content %}
+    {% endblock %}
+
+
+    {% block footer %}
+    <footer class="bg-light py-3">
+        <div class="container">
+            <div id="logo"> <img id="stopka" src="{% static 'assets/img/stopka2.png' %}"></div>
+            <div class="small text-center text-muted"> <br> Platforma powstała w ramach pracy magisterskiej</div>
+        </div>
+    </footer>
+    {% endblock %}
+
+    {% block head-javascript %}
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <!-- Third party plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="{% static '../../static/js/scripts.js' %}"></script>
+<!--    <script src="{% static '../../static/js/vTec_values.js' %}"></script>-->
+<!--    <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>-->
+<!--    <script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>-->
+
+    {% endblock %}

@@ -1,0 +1,94 @@
+{% extends "ionosphere_storm/base.html" %}
+{% load static %}
+
+{% block title %}
+<title>Wykresy wartości TEC</title>
+{% endblock %}
+
+{% block header %}
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<div class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" ondblclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'vTec_map' %}'">Mapy TEC</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'stations' %}'">Stacje IGS</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'storm' %}'">O
+                    burzach</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'charts' %}'">Wykresy</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<br>
+<div class="kolumna_1">
+    <h2 class="text-left mt-0">Wykresy wartości vTEC</h2> <br>
+    <!-- PRZYCISKI -->
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'charts' %}'">Ogólne
+    </button>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'sTEC_charts' %}'">sTEC
+    </button>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'vTEC_charts' %}'">vTEC
+    </button>
+    <br>
+    <br>
+    <h4 class="text-left mt-0">Wartość vTEC</h4>
+    <p class="text-muted ml-1">Wartość sTEC można przekształcić na jej pionowy odpowiednik zwany jako vTEC m.in.
+        wykorzystując jednowarstwowy model jonosfery SLM. Podstawowym założeniem tego modelu, jest że wszystkie
+        elektrony
+        swobodne skoncentrowane sią w jednej cienkiej warstwie na stałej wysokości, a jonosfera jest zrzutowana
+        dwuwymiarowo i znajduje się na wysokości od 350 do 450 km nad powierzchnią Ziemi. Wartość vTEC obarczona jest
+        błędami, sa to głównie błędy instrumentalne po stronie satelity satelity i odbiornika, które należy
+        zniwelować. </p>
+
+    <br>
+    <h4 class="text-left mt-0">Wykres wartości vTEC</h4>
+    <p class="text-muted ml-1">Poniższy wykres przedstawia wartości vTEC dla każdej epoki, z podziałem na system, z
+        którego pochodzą obserwacje oraz satelitę. Wykres dotyczy tylko obserwacji kodowych. Wartości vTEC dla każdego
+        satelity zostały przedstawione innym kolorem. </p>
+
+    <div class="text-center mt-0">
+        {% autoescape off %}
+        {{ plot_wykres_zbiorczy_vTEC }}
+        {% endautoescape %}
+    </div>
+
+    <br>
+    <h4 class="text-left mt-0">Wykres zależności średniej wartości vTEC od azymutu i kąta elewacji</h4>
+    <p class="text-muted ml-1">Aby obliczyć średnią wartość vTEC wykorzystano uproszczony model opóźnienia
+        jonosferycznego. Korzystając z metody najmniejszych kwadratów wyznaczono średnia wartość vTEC dla ostatniej
+        epoki. Dla obserwacji z systemu GPS i Galileo zastosowano jedną ciągłą skalę. </p>
+
+    <div class="text-center mt-0">
+        {% autoescape off %}
+        {{ plot_elewacja }}
+        {% endautoescape %}
+    </div>
+
+    <br>
+    <h4 class="text-left mt-0">Wykres zależności wartości vTEC od azymutu i kąta elewacji</h4>
+    <p class="text-muted ml-1">Wykres przedstawia obliczone na podstawie obserwacji wartości vTEC oraz jej zależność od
+        obliczonego kąta elewacji i azymutu. Podobnie jak w przypadku wykresu wartości vTEC zastosowano tutaj podział na system i satelitę. Na podstawie wykresu można określić kierunek przemieszczania się
+        satelity. </p>
+
+    <div class="text-center mt-0">
+        {% autoescape off %}
+        {{ plot_elewacja_vTEC }}
+        {% endautoescape %}
+    </div>
+
+</div>
+{% endblock %}

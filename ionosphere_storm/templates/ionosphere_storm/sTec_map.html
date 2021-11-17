@@ -1,0 +1,78 @@
+{% extends "ionosphere_storm/base.html" %}
+
+
+{% block title %}
+<title>Mapa wartości sTEC</title>
+{% endblock %}
+
+
+{% block header %}
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<div class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" ondblclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'vTec_map' %}'">Mapy TEC</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'stations' %}'">Stacje IGS</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'storm' %}'">O
+                    burzach</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'charts' %}'">Wykresy</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+{% load static %}
+
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<link rel="stylesheet" href="../../static/css/style_django.css?{% now 'U' %}"/>
+
+<br>
+<div class="title">
+    <div class="col-lg-8 text-left">
+        <h2 class="text-left mt-0">Wartości TEC</h2>
+        <p class="text-muted ml-1">{{data}} {{h}}:{{min}}:{{s}} </p>
+    </div>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'sTec_map' %}'">Mapa wartości
+        sTEC
+    </button>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'vTec_map' %}'">Mapa wartości
+        vTEC
+    </button>
+</div>
+
+    <br>
+    <br>
+
+<div class="kolumna_1">
+    <h2 class="text-left mt-0">Mapa wartości sTEC</h2>
+    <p class="text-muted ml-1">Jonosfera jest jedną z warstw ziemksiej atmosfery, w której znajdują się elektrycznie
+        naładowane atomy otaczające Ziemię. Naładowane cząstki maja wpływ na propagację sygnału GPS, powodując
+        opóźnienie jonosferyczne, a jego wartość jest zależna od częstotliwości. Na podstawie obserwacji
+        pochodzących z dwuczęstotliwościowych odbiorników możliwe jest wyznaczenie ilości wolnych elektronów
+        znajdujących się w jonosferze (Total Electron Content). Wartość TEC jest zmienna w czasie i przestrzeni, a
+        na jej wielkość szczególny wpływ mają: aktywność słoneczna, pora roku oraz współrzędne geograficzne. W
+        okresach nikiej aktywności słonecznej wartość TEC mieści się w zakresie od 5 do około 40 TECU. Dla naszej
+        szerokości geograficznej wartość TEC na poziomie 80 TECU, można przyjąć za wartość ekstremalną.
+    </p>
+
+
+    <div class="text-center mt-0">
+        {% load plotly_dash %}
+        {% plotly_app name="sTEC_map" ratio=0.6 %}
+    </div>
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8220f3b-7bd9-496b-920f-4ffb4dbeb5e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WROC00POL_R_20211930000_01D_EN.rnx.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/IGS/navigations_file/GPS/wroc194g.21n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/IGS/navigations_file/Galileo/WROC00POL_R_20211930000_01D_EN.rnx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/IGS/observations_file/wroc194g.21d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/static/assets/img/portfolio/fullsize/solar_cycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/static/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/sTEC_charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/sTec_map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/vTEC_charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Brotli-1.0.9.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask-2.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Flask_Compress-1.9.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Jinja2-3.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-2.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/Werkzeug-2.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/_brotli.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/brotli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_termui_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_unicodefun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_winconsole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/shell_completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/termui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash-1.20.0-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/_callback_context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/_configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/_watch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/dash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/dependencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/_all_keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/_jl_components_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/_py_components_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/_r_components_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/base_component.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/build_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/component_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/development/component_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/extract-meta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/fingerprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/application_runners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/composite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/consts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/dash_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/newhooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/testing/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components-1.16.0-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components-1.16.0-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components-1.16.0-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components-1.16.0-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components-1.16.0-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Checklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/ConfirmDialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/ConfirmDialogProvider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/DatePickerRange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/DatePickerSingle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Loading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/LogoutButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Markdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/RadioItems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/RangeSlider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Tabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Textarea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/Upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/_imports_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-datepicker.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-graph.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-highlight.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-markdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-plotlyjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-slider.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/async-upload.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/dash_core_components-shared.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/dash_core_components-shared.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/dash_core_components.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/dash_core_components.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/express.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/package-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_core_components/plotly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components-1.1.3-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components-1.1.3-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components-1.1.3-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components-1.1.3-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components-1.1.3-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Abbr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Acronym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Article.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Aside.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Basefont.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Bdi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Bdo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Big.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Blink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Blockquote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Br.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Caption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Center.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Cite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Col.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Colgroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Datalist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Dd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Dfn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Dl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Dt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Em.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Embed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Fieldset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Figcaption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Figure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Font.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Footer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Frameset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/H6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Hgroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Hr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Ins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Isindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Kbd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Keygen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Li.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Listing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/MapEl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Mark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Marquee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Meter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Multicol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Nav.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Nextid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Nobr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Noscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/ObjectEl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Ol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Optgroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/P.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Plaintext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Pre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Progress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Rb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Rp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Rt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Rtc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Ruby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Samp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Shadow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Slot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Small.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Source.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Spacer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Span.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Strike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Strong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Sup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Tbody.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Td.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Textarea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Tfoot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Th.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Thead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Tr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Track.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/U.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Ul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Wbr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/Xmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/_imports_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/dash_html_components.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/dash_html_components.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_html_components/package-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer-1.9.1-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer-1.9.1-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer-1.9.1-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer-1.9.1-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer-1.9.1-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/dash_renderer.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/dash_renderer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/polyfill@7.8.7.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/prop-types@15.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/prop-types@15.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/react-dom@16.14.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/react-dom@16.14.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/react@16.14.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_renderer/react@16.14.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table-4.11.3-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table-4.11.3-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table-4.11.3-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table-4.11.3-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table-4.11.3-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/DataTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/Format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/FormatTemplate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/_imports_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-export.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-highlight.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/async-table.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dash_table/package-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash-1.6.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/app_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/consumers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/dash_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/finders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/migrations/0002_add_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templates/admin/django_plotly_dash/statelessapp/change_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templates/django_plotly_dash/plotly_app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templates/django_plotly_dash/plotly_app_bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templates/django_plotly_dash/plotly_direct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templates/django_plotly_dash/plotly_messaging.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/templatetags/plotly_dash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/tests_dash_contract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/django_plotly_dash/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components-0.1.0-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components-0.1.0-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components-0.1.0-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components-0.1.0-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components-0.1.0-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dpd_components/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/blueprints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/ctx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/debughelpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/json/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/json/tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/scaffold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/templating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/flask_compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future-0.18.2-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/_markupbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/_encoded_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/_header_value_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/_parseaddr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/_policybase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/base64mime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/encoders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/feedparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/headerregistry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/multipart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/nonmultipart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/mime/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/quoprimime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/email/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/html/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/html/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/html/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/http/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/http/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/http/cookiejar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/http/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/http/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/socketserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/badcert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/badkey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/dh512.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/https_svn_python_org_root.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/keycert.passwd.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/keycert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/keycert2.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/nokia.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/nullbytecert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/nullcert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/pystone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/sha256.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/ssl_cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/ssl_key.passwd.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/ssl_key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/ssl_servers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/test/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/total_ordering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/urllib/robotparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/xmlrpc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/xmlrpc/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/backports/xmlrpc/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/disabled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/new_min_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/newnext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/newround.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/builtins/newsuper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/_dummy_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/_markupbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/configparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/copyreg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/dbm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/dbm/dumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/dbm/gnu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/dbm/ndbm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/html/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/html/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/html/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/http/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/http/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/http/cookiejar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/http/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/http/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/reprlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/socketserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/subprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/sys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/test/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/colorchooser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/commondialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/dnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/filedialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/font.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/messagebox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/scrolledtext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/simpledialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/tix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/tkinter/ttk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/urllib/robotparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/winreg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/xmlrpc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/xmlrpc/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/moves/xmlrpc/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/standard_library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/tests/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newbytes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newmemoryview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newopen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/types/newstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/future/utils/surrogateescape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata-4.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_functools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/importlib_metadata/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous-2.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/exc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/jws.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/signer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/timed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/itsdangerous/url_safe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/_identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/async_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/bccache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/defaults.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/idtracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/loaders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/nativetypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/runtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/visitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixer_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_UserDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_absolute_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_basestring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_bytes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_cmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_division_safe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_execfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_future_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_future_standard_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_future_standard_library_urllib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_metaclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_next_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_oldstr_wrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_order___future__imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_print_with_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_remove_old__future__imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_unicode_keep_u.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_unicode_literals_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/fixes/fix_xrange_with_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libfuturize/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/feature_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_add_all__future__imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_add_all_future_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_add_future_standard_library_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_annotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_fullargspec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_future_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_getcwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_imports2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_memoryview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_metaclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_newstyle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_printfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_raise_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_throw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/fixes/fix_unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/libpasteurize/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/markupsafe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/markupsafe/_native.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/markupsafe/_speedups.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/markupsafe/_speedups.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/markupsafe/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/builtins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/builtins/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/builtins/noniterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/translation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/types/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/types/basestring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/types/olddict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/types/oldstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/past/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions-3.10.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/typing_extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/_internal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/_reloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/datastructures.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/repr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/ICON_LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/console.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/debugger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/debug/tbtools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/formparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/http_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/profiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/proxy_fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/middleware/shared_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/sansio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/sansio/multipart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/sansio/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/sansio/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/sansio/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/serving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/testapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/user_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/useragents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/accept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/base_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/base_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/common_descriptors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/cors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/etag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wrappers/user_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/werkzeug/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp-3.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/zipp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/dash-generate-components-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/dash-generate-components.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/flask.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/futurize-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/futurize.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pasteurize-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pasteurize.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/renderer-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/renderer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wroc194g.21d.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wroc194g.21n.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Praca_magisterska.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Praca_magisterska.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc006v.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc006w.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc007u.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc007w.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc061w.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/navigations_file/wroc061x.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/observations_file/wroc006v.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/observations_file/wroc006w.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/observations_file/wroc007u.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/observations_file/wroc007w.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/observations_file/wroc061x.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc001w.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc001w.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc003u.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc003u.21n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc006t.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc006u.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc006v.21d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc365u.20d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc365v.20d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IGS/wroc365x.20d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPP.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Pliki/poland_woj.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Pliki/test_all.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/0307084j08.17g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/0307084j08.17l" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/0307084j08.17n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/0307084j08.17o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/1105_1.17g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/1105_1.17n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/1105_1.17o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/boston-airbnb-kde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/Rinex/testy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/static/css/style_django.css" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/static/css/style_django.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/static/css/styles_all.css" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/static/css/styles_all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/static/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/obl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/plotowanie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/stations.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/stations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/storm.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/storm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/vTec_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/templates/ionosphere_storm/vTec_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ionosphere_storm/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/wroc006u.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionosphere_storm/wroc006w.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc001w.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc001w.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc003u.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc003u.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006t.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006u.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006v.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006v.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006w.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc006w.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc007u.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc007u.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc007w.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc007w.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc061w.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc061x.21d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc061x.21n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc365u.20d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc365v.20d.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wroc365x.20d.gz" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aB2zW2MjvNFgGAqOn2B5TUz2Ce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\static\css" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\static\assets\img" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\static\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\templates\ionosphere_storm" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\static\js" />
+      <recent name="C:\Users\48785\Desktop\Praca_magisterska\ionosphere_storm\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="forms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Praca_magisterska" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ionosphere_storm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ionosphere_storm/forms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_boston_airbnb_kde" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Praca_magisterska" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../plot_boston_airbnb_kde.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Praca_magisterska" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ionosphere_storm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ionosphere_storm/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Praca_magisterska" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ionosphere_storm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ionosphere_storm/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.forms" />
+        <item itemvalue="Python.plot_boston_airbnb_kde" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8220f3b-7bd9-496b-920f-4ffb4dbeb5e5" name="Default Changelist" comment="" />
+      <created>1586194928452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586194928452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1228" y="203" key="FileChooserDialogImpl" timestamp="1624378066521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1228" y="203" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624378066521" />
+    <state width="936" height="273" key="GridCell.Tab.0.bottom" timestamp="1620943205925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618083603754" />
+    <state width="936" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620943205925" />
+    <state width="936" height="273" key="GridCell.Tab.0.center" timestamp="1620943205925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618083603754" />
+    <state width="936" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620943205925" />
+    <state width="936" height="273" key="GridCell.Tab.0.left" timestamp="1620943205925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618083603754" />
+    <state width="936" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620943205925" />
+    <state width="936" height="273" key="GridCell.Tab.0.right" timestamp="1620943205925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618083603754" />
+    <state width="936" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620943205925" />
+    <state x="278" y="128" key="SettingsEditor" timestamp="1626162126817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="278" y="128" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1626162126817" />
+    <state x="278" y="128" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624378135094" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1626161778384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1626161778384" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624858099599" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619995799465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619995799465" />
+    <state x="136" y="180" width="672" height="676" key="search.everywhere.popup" timestamp="1622480791934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="180" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622480791934" />
+    <state x="136" y="180" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620679738970" />
+  </component>
+</project>

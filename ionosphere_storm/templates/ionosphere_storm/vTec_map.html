@@ -1,0 +1,90 @@
+{% extends "ionosphere_storm/base.html" %}
+
+
+
+{% block title %}
+<title>Mapa wartości vTEC</title>
+{% endblock %}
+
+
+{% block header %}
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<div class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" ondblclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'vTec_map' %}'">Mapy TEC</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'stations' %}'">Stacje IGS</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'storm' %}'">O
+                    burzach</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'charts' %}'">Wykresy</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+{% load static %}
+
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<link rel="stylesheet" href="../../static/css/style_django.css?{% now 'U' %}"/>
+<link rel="stylesheet" href="../../static/css/rSlider.min.css?{% now 'U' %}">
+<!--<script src="{% static '../../static/js/slider.js' %}" type="text/javascript"></script>-->
+
+<br>
+<div class="title">
+    <div class="col-lg-8 text-left">
+        <h2 class="text-left mt-0">Wartości TEC</h2>
+        <p class="text-muted ml-1">{{data}} {{h}}:{{min}}:{{s}} </p>
+    </div>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'sTec_map' %}'">Mapa wartości
+        sTEC
+    </button>
+    <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'vTec_map' %}'">Mapa wartości
+        vTEC
+    </button>
+
+</div>
+
+
+<div class="kolumna_1">
+    <!--<div>-->
+    <br>
+    <br>
+        <h2 class="text-left mt-0">Mapa wartości vTEC</h2>
+        <p class="text-muted ml-1">Mapy ziemskiej jonosfery są tworzone już od 1996 roku, ponieważ już wtedy było
+            wiadomo jaki wpływ ma jonosfera na pomiary GNSS. Wyznaczenie wiarygodnych wartości pionowej całkowitej
+            zawartości elektornów w jonosferze nie jest najłatwiejszym zadaniem, ale jednocześnie jest bardzo pomocne i
+            przydatne. Mapy stanu jonosfery dostarczają cennych informacji o jonosferze, o pogodzie kosmicznej oraz
+            empiryczne modele predykcji jonosfery. Do obliczenia wartości VTEC wykorzystuje sįe tzw. funkcję
+            odwzorowuj̨ącą, która polega na przeliczeniu wartości skośnej TEC przy użyciu współczynnika pochylenia
+            wyznaczonego na podstawie kąta zenitalnego w miejscu przebicia sygnału przez warstwę jonosfery na zadanej
+            wysokości np. 350km. Poniżej zamieszono linki do oficjalnych serwisów zajmujących się tworzeniem map jonosfery.</p>
+
+    <p class="small text-left text-muted font-italic">
+        TEC Global Map [Space Weather Service]: <a href="https://www.sws.bom.gov.au/Satellite/2/2">https://www.sws.bom.gov.au/Satellite/2/2</a>
+        <br>
+        TEC Global Map [The European Space Agency]: <a href="https://swe.ssa.esa.int/tio_tcr">https://swe.ssa.esa.int/tio_tcr</a>
+    </p>
+
+    <div class="text-center mt-0">
+        {% load plotly_dash %}
+        {% plotly_app name="vTEC_map" ratio=0.6 %}
+    </div>
+
+
+    <!--    {% plotly_app name="vTEC_map" ratio=1 %}-->
+</div>
+
+
+{% endblock %}

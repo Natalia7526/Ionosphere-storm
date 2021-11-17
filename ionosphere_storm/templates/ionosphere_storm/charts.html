@@ -1,0 +1,71 @@
+{% extends "ionosphere_storm/base.html" %}
+{% load static %}
+
+{% block title %}
+<title>Wykresy wartości TEC</title>
+{% endblock %}
+
+{% block header %}
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<div class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" ondblclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'vTec_map' %}'">Mapy TEC</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'stations' %}'">Stacje IGS</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'storm' %}'">O
+                    burzach</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'charts' %}'">Wykresy</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<br>
+<div class="kolumna_1">
+    <div class="col-lg-8 text-left">
+        <h2 class="text-left mt-0">Wykresy wartości TEC</h2> <br>
+        <!-- PRZYCISKI -->
+        <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'charts' %}'">Ogólne</button>
+        <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'sTEC_charts' %}'">sTEC</button>
+        <button type="button" class="btn btn-outline-secondary" onclick="location.href='{% url 'vTEC_charts' %}'">vTEC</button>
+    </div>
+    <br>
+    <h4 class="text-left mt-0">Wartość pseudoodległości</h4>
+    <p class="text-muted ml-1">Aby wyznaczyć pozycję satelity wyznaczana jest odległość między satelitą, a odbiornikiem.
+        Odległość określa się na podstawie pomiaru czasu, jakiego potrzebuje sygnał, aby dotrzeć od satelity do
+        odbiornika. Pomiar czasu jest obarczony błędami m.in. błędem zegara odbiornika, dlatego otrzymana odległość
+        nazywana jest pseudoodległością. Pseudoodległość określa w jakiej odległości od odbiornika znajduje się w danym
+        momencie satelita.</p>
+
+    <div class="text-center mt-0">
+        {% autoescape off %}
+        {{ plot_C1P2 }}
+        {% endautoescape %}
+    </div>
+
+    <h4 class="text-left mt-0">Wartość różnic pseudoodległości</h4>
+    <p class="text-muted ml-1">Na wykresie przedstawiono różnice pseudoodległości między odległościami pochodzącymi z
+        dwóch częstotliwości.</p>
+
+
+    <div class="text-center mt-0">
+        {% autoescape off %}
+        {{ plot_roznica }}
+        {% endautoescape %}
+    </div>
+
+</div>
+{% endblock %}

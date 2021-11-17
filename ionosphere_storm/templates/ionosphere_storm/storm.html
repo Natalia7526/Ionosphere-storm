@@ -1,0 +1,162 @@
+{% extends "ionosphere_storm/base.html" %}
+{% load static %}
+
+
+{% block title %}
+<title>Burze_jonosferyczne</title>
+{% endblock %}
+
+{% block header %}
+<link rel="stylesheet" href="../../static/css/styles_all.css?{% now 'U' %}"/>
+<div class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" ondblclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <!--    <a class="navbar-brand js-scroll-trigger" onclick="location.href='{% url 'home' %}'">Burze jonosferyczne</a><button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>-->
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'vTec_map' %}'">Mapy TEC</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                        onclick="location.href='{% url 'stations' %}'">Stacje IGS</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'storm' %}'">O
+                    burzach</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" onclick="location.href='{% url 'charts' %}'">Wykresy</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block content %}
+
+<!--tytuł-->
+<br>
+<div class="title"></div>
+
+<!--DIV dla jednej kolumny, wyrównany na całą szerokość strony-->
+<div class="kolumna_1">
+    <h2 class="text-left mt-0">Czym są burze jonosferyczne?</h2>
+    <p class="text-muted ml-1">W miarę jak nasza cywilizacja staje się bardziej zależna od technologii kosmicznych,
+        stajemy się bardziej podatni na warunki pogodowe w kosmosie. Dokładne specyfikacje i prognozy pogody
+        kosmicznej wymagają odpowiedniego modelowania, które uwzględnia powiązania między słońcem, magnetosferą,
+        termosferą, jonosferą i mezosferą. Głównymi skutkami pogody kosmicznej jest wzrost oporów atmosferycznych na
+        satelitach, przerwy w dostawie prądu elektrycznego z powodu szkodliwych prądów indukowanych w sieciach
+        elektrycznych, zwiększone ryzyko narażenia na promieniowanie astronautów, wzrost scyntylacji jonosferycznych,
+        które powodują zakłócenia propagacji fali elektromagnetycznej, problemy w funkcjonowaniu sieci telefonów
+        komórkowych oraz bezprzewodowego dostępu do Internetu prowadzące do zakłóceń w sygnałach nawigacyjnych i
+        komunikacji, a także błędy w systemach nawigacyjnych VLF (very low frequency) oraz GPS. Szybkie zmiany
+        wartości TEC powodują znaczny błąd wyznaczania pozycji przy użyciu sygnału GPS lub mogą prowadzić do utraty
+        możliwości śledzenia sygnału GPS.
+    </p>
+</div>
+<!--DIV dla 2 kolumn w jednym wierszu-->
+<br>
+<div class="glowny">
+    <div class="lewy">
+        <img id="img-1" src="{% static 'assets/img/portfolio/fullsize/jonosfera.png' %}"
+             title="Earth's atmosphere and ionosphere">
+        <p class="small text-center text-muted font-italic">
+            Źródło: <a href="http://gnss.be/ionosphere_tutorial.php#x2-60000">http://gnss.be/</a>
+        </p>
+    </div>
+    <div class="prawy">
+        <h4 class="text-left mt-0">Budowa jonosfery</h4>
+        <p class="text-muted ml-1">Promieniowanie słoneczne wpływa na górne warstwy ziemskiej atmosfery wytwarzając
+            tzw. wolne elektrony. Powyżej około 50-60 km nad powierzchnią Ziemi ich liczba jest na tyle duża, że może
+            wpłynąć na propagacje fali elektromagnetycznej. Obszar, który uległ zjonizowaniu nazywany jest jonosferą.
+            Jonosfera rozciąga się od około 50 do 1000 km nad powierzchnią Ziemi i została podzielona na kilka warstw.
+            onosfera składa się z trzech głównych warstw: D, E i F gdzie warstwa F
+            została podzielona jeszcze na dwie mniejsze części F1 i F2. Nad górną granicą znajduje się warstwa zwana
+            plazmosferą, jej kształt nieustannie ulega zmianom w wyniku zaburzeń geomagnetyczych oraz zmian w
+            jonosferze. Najniższą warstwą jonosfery jest region D, znajduje się na wysokości od około 50 - do około 90
+            km nad powierzchnią Ziemi.
+            Jonizacja w tej warstwie w dużej mierze spowodowana jest przez promieniowanie kosmiczne. Warstwa D podobnie
+            jak warstwa E i F1 charakteryzuje się dużą zmiennością dobową, sezonową i zmianami zależnymi od szerokości
+            geograficznej. Z powodu połączenia się jonów z elektronami i utworzenia ujemnych jonów warstwa zanika w
+            nocy. Warstwa ta jest odpowiedzialna za absorbcję fal radiowych o częstotliwości mniejszej niż 10 MHz,
+            jednak z powodu jej zaniku w nocy najlepsze skutki absorbcji widoczne są w ciągu dnia. Nad warstwą D
+            znajduje się, warstwa E, która rozciąga się do około 150 km nad powierzchnią Ziemi. Warstwa ta podobnie do
+            warstwy D maksiumum jonizacji wykazuje w czasie lokalnego
+            południa. W ciągu nocy warstwa zanika, ale niecałkowicie, zazwyczaj nie ma dużego wpływu na obserwacje
+            systemu GPS. Warstwa F znajduje się od 120 do 800 km nad powierzchnią Ziemi, i w
+            przeciwieństwie do pozostałych nie zanika nocą. Region F1 jest szczególnie obserwowany w czasie dnia i dużo
+            wyraźniejszy latem niż zimą. Warstwa F2 jest najważniejszą warstwą jonosfery pod względem propagacji fal
+            radiowych.</p>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+<div class="kolumna_1">
+    <p class="text-bold-center ml-1"><b>Jednym ze zjawisk pogody kosmicznej są burze jonosferyczne, które są ekstremalną
+        formą pogody w przestrzeni kosmicznej i mają znaczny wpływ na kosmiczne i naziemne systemy technologiczne.
+        Burze jonosferyczne mogą trwać od kilku godzin nawet do kilku dni i są spowodowane wzrostem aktywności
+        słonecznej.</b>
+</div>
+<br>
+
+<div class="glowny">
+    <div class="lewy">
+        <img id="img-2" src="{% static 'assets/img/portfolio/fullsize/storm.png' %}"
+             title="Mapa wartości VTEC podczas burzy halloweenowej (od 23:30 do 23:45 w dniu 30 października 2003 r.).">
+        <br>
+        <br>
+        <p class="small text-center text-muted font-italic">
+            Źródło: <a href="http://gnss.be/ionosphere_tutorial.php#x2-60000">http://gnss.be/</a>
+        </p>
+    </div>
+    <div class="prawy">
+        <h4 class="text-left mt-0">Skutki burz jonosferycznych</h4>
+        <p class="text-muted ml-1">Pogoda kosmiczna może przyjmować ekstremalne formy i być przyczyną dużych błędów
+            pozycjonowania. Jedno z większych zaburzeń jonosfery jakie zostały zaobserwowane dotyczy tzw. magnetycznej
+            burzy Halloween, która miała miejsce od 28 do 30 października 2003 roku. Jej skutki zostały zbadane
+            wykorzystując dane z 36 stacji należących do sieci stacji EPN. Burze geomagnetyczne są spowodowane wyrzutami
+            masy koronowej (ang. Coronal Mass Ejection - CME) i są silne powiązane z wartością TEC oraz burzami
+            jonosferycznymi. Wspomniana burza magnetyczna wpłynęła na jonosferę nad Skandynawią oraz północno-wschodnią
+            częścią Europy. Jej skutkiem była poważna awaria zasilania w Szwecji. Dodatkowo zaobserwowano zmniejszenie
+            precyzji pozycjonowania dwuczęstotliwościowych odbiorników GPS. Dokładność pozycjonowania podczas trwania
+            burzy spadła do 25 cm, podczas gdy w czasie normalnej aktywności jonosferycznej utrzymuje się na poziomie
+            3cm. Tak niska dokładność jest niebezpieczna w przypadku zastosowań systemów GNSS wymagających wysokiej
+            precyzji takich jak pomiary górnicze. Zaobserwowano także znaczny wzrost wartości VTEC, podczas normalnych
+            warunków jonosferycznych spodziewane wartości mieszczą się w przedziale od 1 do 7 TECU, jednak w czasie
+            trwania burzy wartości osiągały nawet 70 TECU.</p>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+<div class="glowny">
+    <div class="lewy">
+        <img id="img-3" src="{% static 'assets/img/portfolio/fullsize/solar_cycle.png' %}"
+             title="Mapa wartości VTEC podczas burzy halloweenowej (od 23:30 do 23:45 w dniu 30 października 2003 r.).">
+        <br>
+        <br>
+        <p class="small text-center text-muted font-italic">
+            Źródło: <a href="http://www.sidc.be/silso/">http://www.sidc.be/silso/</a>
+        </p>
+    </div>
+    <div class="prawy">
+        <h4 class="text-left mt-0">11-letni cykl słoneczny</h4>
+        <p class="text-muted ml-1">Aktywność słońca jest zmienna, jednak zaobserwowano tzw. cykl 11-letni. Mniej
+            więcej co 11 lat aktywność Słońca znacznie rośnie, co wiąże się z częstszymi wyrzutami masy, rozbłyskami
+            oraz występowaniem plam słonecznych. Za początek najnowszego, 25 cyklu przyjmuje się styczeń 2019 r.,
+            ponieważ właśnie wtedy zaobserwowano minimum słoneczne czyli okres z najmniejszą aktywnością słoneczną.
+            Aktywność słoneczna jest wyznaczana na podstawie ilości zauważalnych plam na Słońcu, podczas każdego cyklu
+            słonecznego zmianie ulega jego pole magnetyczne. Obecnie znajdujemy się w tzw. głębokim minimum słonecznym
+            tj. aktywność słoneczna jest niska, a przez większość dni w roku plamy na słońcu nie występują.
+            Zaobserwowano tendencję osłabiania cykli słonecznych, taki trend może utrzymywać się jeszcze
+            przez dekadę. Szacuje się, że cykl 25 będzie najsłabszym cyklem od 200 lat.</p>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+<div class="title">
+    <div class="col-lg-8 text-left">
+        <p class="text-muted ml-1">
+        </p>
+    </div>
+</div>
+{% endblock %}
